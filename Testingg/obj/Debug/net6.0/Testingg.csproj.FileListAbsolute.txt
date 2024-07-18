@@ -1,0 +1,433 @@
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\testhost.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\oop2.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\oop2.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\input.txt
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\oop2.exe
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\testhost.exe
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Testingg.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Testingg.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Testingg.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Testingg.pdb
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\oop2.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\TextFile.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\oop2.pdb
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\Testingg.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\Testingg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\Testingg.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\Testingg.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\Testingg.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\Testingg.csproj.CopyComplete
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\Testingg.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\refint\Testingg.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\Testingg.pdb
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\Testingg.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\obj\Debug\net6.0\ref\Testingg.dll
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\input1.txt
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\input3.txt
+C:\Users\user\OneDrive\Рабочий стол\Uni\OOP'24\Testingg\bin\Debug\net6.0\input2.txt
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input.txt
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input1.txt
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input3.txt
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input2.txt
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\testhost.exe
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\testhost.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.deps.json
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.runtimeconfig.json
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.exe
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.deps.json
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.runtimeconfig.json
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.pdb
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.pdb
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.AssemblyInfo.cs
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.csproj.CopyComplete
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\refint\Testingg.dll
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.pdb
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.genruntimeconfig.cache
+C:\Users\user\Downloads\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\ref\Testingg.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input.txt
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input1.txt
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input3.txt
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input2.txt
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\testhost.exe
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\testhost.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.exe
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.pdb
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.pdb
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.csproj.CopyComplete
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\refint\Testingg.dll
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.pdb
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\ref\Testingg.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input.txt
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input1.txt
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input3.txt
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\input2.txt
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\testhost.exe
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\testhost.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.deps.json
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.runtimeconfig.json
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.exe
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.deps.json
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.runtimeconfig.json
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Testingg.pdb
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\bin\Debug\net6.0\oop2.pdb
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.AssemblyInfo.cs
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.csproj.CopyComplete
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\refint\Testingg.dll
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.pdb
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\Testingg.genruntimeconfig.cache
+C:\Users\user\Downloads\Assignment2OOP-1 (2)\Assignment2OOP\Assignment2OOP\Testingg\obj\Debug\net6.0\ref\Testingg.dll
